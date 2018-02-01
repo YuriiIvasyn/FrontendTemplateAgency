@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="I'm-trend_Main_1280" transform="translate(-128.000000, -576.000000)" fill="#FFFFFF">
+            <path d="M128,608 C128,590.326888 142.323002,576 160,576 C177.673112,576 192,590.323002 192,608 C192,625.673112 177.676998,640 160,640 C142.326888,640 128,625.676998 128,608 Z M170,608 L154,599 L154,617 L170,608 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

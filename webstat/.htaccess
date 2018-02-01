@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/dev.imtrend.ru/webstat"
+AuthUserFile /var/www/imtrend-main/data/etc/138489.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

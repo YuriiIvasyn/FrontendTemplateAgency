@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="126px" height="75px" viewBox="0 0 126 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3,33 L33,33 L33,3 L3,3 L3,33 Z M0,0 L36,0 L36,36 L0,36 L0,0 Z M8.87793832,13.3333333 L8.87793832,23.8333333 L11.2730807,23.8333333 L11.2730807,13.3333333 L8.87793832,13.3333333 Z M15.3398328,13.3333333 L12.9446905,13.3333333 L12.3459049,17.7583333 L14.1422617,17.7583333 L15.3398328,13.3333333 Z M24.7208072,16.1233333 C23.6579627,16.1233333 22.9693593,16.5133333 22.5502094,17.1133333 C22.1310595,16.4833333 21.4723953,16.1233333 20.5891865,16.1233333 C19.5862207,16.1233333 18.9275565,16.5133333 18.5832548,17.0233333 L18.5832548,16.3333333 L16.3378088,16.3333333 L16.3378088,23.8333333 L18.5832548,23.8333333 L18.5832548,19.6033333 C18.5832548,18.7183333 19.0024047,18.1933333 19.7508867,18.1933333 C20.4694294,18.1933333 20.8287008,18.6733333 20.8287008,19.4233333 L20.8287008,23.8333333 L23.0741468,23.8333333 L23.0741468,19.6033333 C23.0741468,18.7183333 23.4932967,18.1933333 24.2417787,18.1933333 C24.9603214,18.1933333 25.3195928,18.6733333 25.3195928,19.4233333 L25.3195928,23.8333333 L27.5650387,23.8333333 L27.5650387,19.2283333 C27.5650387,17.3533333 26.4423157,16.1233333 24.7208072,16.1233333 Z" id="path-1"></path>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="I'm-trend_Сontact_1280" transform="translate(-608.000000, -699.000000)">
+            <g id="Group-3" transform="translate(608.000000, 699.000000)">
+                <polygon id="Rectangle-5" fill-opacity="0.403136322" fill="#3C3C3C" points="32 54 126 65.7480469 32 75"></polygon>
+                <path d="M40.25,64 L32,75 L23.75,64 L0,64 L0,0 L64,0 L64,64 L40.25,64 Z" id="Combined-Shape" fill="#62DCA2"></path>
+                <g id="Logotype/mobile-icon" transform="translate(8.000000, 8.000000)">
+                    <rect id="Bounding-Box" x="0" y="0" width="48" height="48"></rect>
+                    <g id="↳-🎨Color" stroke-width="1" fill-rule="evenodd" transform="translate(6.000000, 6.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Mixin/Fill/White" mask="url(#mask-2)" fill="#FFFFFF">
+                            <g transform="translate(-6.000000, -6.000000)" id="Box">
+                                <rect x="0" y="0" width="48" height="48"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
